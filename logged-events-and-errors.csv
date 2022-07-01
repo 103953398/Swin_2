@@ -1,0 +1,201 @@
+timestamp,message
+1656508446141,"[DEBUG]	2022-06-29T13:14:06.141Z	af6b10c0-8732-4831-8baa-bd52be84864b	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookPlane
+"
+1656508446142,"END RequestId: af6b10c0-8732-4831-8baa-bd52be84864b
+"
+1656508446142,"REPORT RequestId: af6b10c0-8732-4831-8baa-bd52be84864b	Duration: 1.85 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1656508446154,"START RequestId: 2e263b46-e01b-4781-a5d2-93439502b983 Version: $LATEST
+"
+1656508446156,"[DEBUG]	2022-06-29T13:14:06.156Z	2e263b46-e01b-4781-a5d2-93439502b983	event.bot.name=BookTripTestTwo
+"
+1656508446156,"[DEBUG]	2022-06-29T13:14:06.156Z	2e263b46-e01b-4781-a5d2-93439502b983	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookPlane
+"
+1656508446157,"[DEBUG]	2022-06-29T13:14:06.156Z	2e263b46-e01b-4781-a5d2-93439502b983	bookFlight at={""ReservationType"": ""Plane"", ""Arrival_Country"": ""australia"", ""Arrival_City"": ""sydney"", ""Leave_Date"": ""2022-06-30"", ""Return_Date"": null, ""Cabin_Type"": ""business"", ""Number_Of_Tickets"": ""2""}
+"
+1656508446157,"END RequestId: 2e263b46-e01b-4781-a5d2-93439502b983
+"
+1656508446157,"REPORT RequestId: 2e263b46-e01b-4781-a5d2-93439502b983	Duration: 1.88 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1656508452056,"START RequestId: c2133afd-e6dd-4871-937b-61f2d66f6195 Version: $LATEST
+"
+1656508452058,"[DEBUG]	2022-06-29T13:14:12.058Z	c2133afd-e6dd-4871-937b-61f2d66f6195	event.bot.name=BookTripTestTwo
+"
+1656508452058,"[DEBUG]	2022-06-29T13:14:12.058Z	c2133afd-e6dd-4871-937b-61f2d66f6195	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookHotel
+"
+1656508452059,"END RequestId: c2133afd-e6dd-4871-937b-61f2d66f6195
+"
+1656508452059,"REPORT RequestId: c2133afd-e6dd-4871-937b-61f2d66f6195	Duration: 1.84 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1656508457292,"START RequestId: f551bde5-067a-4b30-986b-121ba9dba144 Version: $LATEST
+"
+1656508457295,"[DEBUG]	2022-06-29T13:14:17.293Z	f551bde5-067a-4b30-986b-121ba9dba144	event.bot.name=BookTripTestTwo
+"
+1656508457295,"[DEBUG]	2022-06-29T13:14:17.293Z	f551bde5-067a-4b30-986b-121ba9dba144	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookHotel
+"
+1656508457309,"END RequestId: f551bde5-067a-4b30-986b-121ba9dba144
+"
+1656508457309,"REPORT RequestId: f551bde5-067a-4b30-986b-121ba9dba144	Duration: 16.24 ms	Billed Duration: 17 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1656508462609,"START RequestId: a7ea7f72-53c4-4e6f-ae75-1102e7db8f6e Version: $LATEST
+"
+1656508462611,"[DEBUG]	2022-06-29T13:14:22.611Z	a7ea7f72-53c4-4e6f-ae75-1102e7db8f6e	event.bot.name=BookTripTestTwo
+"
+1656508462611,"[DEBUG]	2022-06-29T13:14:22.611Z	a7ea7f72-53c4-4e6f-ae75-1102e7db8f6e	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookHotel
+"
+1656508462612,"END RequestId: a7ea7f72-53c4-4e6f-ae75-1102e7db8f6e
+"
+1656508462612,"REPORT RequestId: a7ea7f72-53c4-4e6f-ae75-1102e7db8f6e	Duration: 2.07 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1656508465937,"START RequestId: 13b80aab-e612-4ff4-8835-e33c7a51e9aa Version: $LATEST
+"
+1656508465941,"[DEBUG]	2022-06-29T13:14:25.940Z	13b80aab-e612-4ff4-8835-e33c7a51e9aa	event.bot.name=BookTripTestTwo
+"
+1656508465941,"[DEBUG]	2022-06-29T13:14:25.941Z	13b80aab-e612-4ff4-8835-e33c7a51e9aa	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookHotel
+"
+1656508465949,"END RequestId: 13b80aab-e612-4ff4-8835-e33c7a51e9aa
+"
+1656508465949,"REPORT RequestId: 13b80aab-e612-4ff4-8835-e33c7a51e9aa	Duration: 9.21 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508468112,"START RequestId: 2bdb7375-b7b1-48e1-abe3-3fea2e2f69b4 Version: $LATEST
+"
+1656508468114,"[DEBUG]	2022-06-29T13:14:28.114Z	2bdb7375-b7b1-48e1-abe3-3fea2e2f69b4	event.bot.name=BookTripTestTwo
+"
+1656508468114,"[DEBUG]	2022-06-29T13:14:28.114Z	2bdb7375-b7b1-48e1-abe3-3fea2e2f69b4	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookHotel
+"
+1656508468115,"END RequestId: 2bdb7375-b7b1-48e1-abe3-3fea2e2f69b4
+"
+1656508468115,"REPORT RequestId: 2bdb7375-b7b1-48e1-abe3-3fea2e2f69b4	Duration: 2.03 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508472365,"START RequestId: 626d402e-4fc6-4fa6-934c-3aadd8024784 Version: $LATEST
+"
+1656508472367,"[DEBUG]	2022-06-29T13:14:32.367Z	626d402e-4fc6-4fa6-934c-3aadd8024784	event.bot.name=BookTripTestTwo
+"
+1656508472367,"[DEBUG]	2022-06-29T13:14:32.367Z	626d402e-4fc6-4fa6-934c-3aadd8024784	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookHotel
+"
+1656508472369,"END RequestId: 626d402e-4fc6-4fa6-934c-3aadd8024784
+"
+1656508472369,"REPORT RequestId: 626d402e-4fc6-4fa6-934c-3aadd8024784	Duration: 3.01 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508477242,"START RequestId: 83f1bc61-6d58-4299-8378-83fd779714f9 Version: $LATEST
+"
+1656508477245,"[DEBUG]	2022-06-29T13:14:37.245Z	83f1bc61-6d58-4299-8378-83fd779714f9	event.bot.name=BookTripTestTwo
+"
+1656508477249,"[DEBUG]	2022-06-29T13:14:37.248Z	83f1bc61-6d58-4299-8378-83fd779714f9	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookHotel
+"
+1656508477250,"END RequestId: 83f1bc61-6d58-4299-8378-83fd779714f9
+"
+1656508477250,"REPORT RequestId: 83f1bc61-6d58-4299-8378-83fd779714f9	Duration: 5.79 ms	Billed Duration: 6 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508483249,"START RequestId: f1bb0ccc-ace4-46ca-909a-577a794daa07 Version: $LATEST
+"
+1656508483257,"[DEBUG]	2022-06-29T13:14:43.256Z	f1bb0ccc-ace4-46ca-909a-577a794daa07	event.bot.name=BookTripTestTwo
+"
+1656508483257,"[DEBUG]	2022-06-29T13:14:43.257Z	f1bb0ccc-ace4-46ca-909a-577a794daa07	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookHotel
+"
+1656508483258,"END RequestId: f1bb0ccc-ace4-46ca-909a-577a794daa07
+"
+1656508483258,"REPORT RequestId: f1bb0ccc-ace4-46ca-909a-577a794daa07	Duration: 7.63 ms	Billed Duration: 8 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508483274,"START RequestId: e534db49-cf14-4ecf-8d68-5d53d04664b7 Version: $LATEST
+"
+1656508483277,"END RequestId: e534db49-cf14-4ecf-8d68-5d53d04664b7
+"
+1656508483277,"REPORT RequestId: e534db49-cf14-4ecf-8d68-5d53d04664b7	Duration: 1.93 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508489036,"START RequestId: cbd17137-befe-4e1f-8c59-b7e54fc65716 Version: $LATEST
+"
+1656508489036,"[DEBUG]	2022-06-29T13:14:43.276Z	e534db49-cf14-4ecf-8d68-5d53d04664b7	event.bot.name=BookTripTestTwo
+"
+1656508489036,"[DEBUG]	2022-06-29T13:14:43.276Z	e534db49-cf14-4ecf-8d68-5d53d04664b7	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookHotel
+"
+1656508489036,"[DEBUG]	2022-06-29T13:14:43.277Z	e534db49-cf14-4ecf-8d68-5d53d04664b7	bookHotel under={""ReservationType"": ""Hotel"", ""Location"": ""melbourne"", ""CheckInDate"": ""2022-06-30"", ""Nights"": 3, ""Guests"": ""2"", ""RoomType"": ""queen"", ""Extras"": ""yes""}
+"
+1656508489038,"[DEBUG]	2022-06-29T13:14:49.038Z	cbd17137-befe-4e1f-8c59-b7e54fc65716	event.bot.name=BookTripTestTwo
+"
+1656508489038,"[DEBUG]	2022-06-29T13:14:49.038Z	cbd17137-befe-4e1f-8c59-b7e54fc65716	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookCar
+"
+1656508489039,"END RequestId: cbd17137-befe-4e1f-8c59-b7e54fc65716
+"
+1656508489039,"REPORT RequestId: cbd17137-befe-4e1f-8c59-b7e54fc65716	Duration: 1.86 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508494162,"START RequestId: bb04bb31-3348-4f95-bd23-28c0be85f6ad Version: $LATEST
+"
+1656508494163,"[DEBUG]	2022-06-29T13:14:54.163Z	bb04bb31-3348-4f95-bd23-28c0be85f6ad	event.bot.name=BookTripTestTwo
+"
+1656508494163,"[DEBUG]	2022-06-29T13:14:54.163Z	bb04bb31-3348-4f95-bd23-28c0be85f6ad	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookCar
+"
+1656508494165,"END RequestId: bb04bb31-3348-4f95-bd23-28c0be85f6ad
+"
+1656508494165,"REPORT RequestId: bb04bb31-3348-4f95-bd23-28c0be85f6ad	Duration: 2.24 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508501378,"START RequestId: 2e6c7a87-e74e-4c6c-9aa0-9588ba6bf9d9 Version: $LATEST
+"
+1656508501380,"[DEBUG]	2022-06-29T13:15:01.380Z	2e6c7a87-e74e-4c6c-9aa0-9588ba6bf9d9	event.bot.name=BookTripTestTwo
+"
+1656508501380,"[DEBUG]	2022-06-29T13:15:01.380Z	2e6c7a87-e74e-4c6c-9aa0-9588ba6bf9d9	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookCar
+"
+1656508501382,"END RequestId: 2e6c7a87-e74e-4c6c-9aa0-9588ba6bf9d9
+"
+1656508501382,"REPORT RequestId: 2e6c7a87-e74e-4c6c-9aa0-9588ba6bf9d9	Duration: 2.52 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508516005,"START RequestId: 2a11acd1-6407-4409-873e-de567db8078a Version: $LATEST
+"
+1656508516007,"[DEBUG]	2022-06-29T13:15:16.007Z	2a11acd1-6407-4409-873e-de567db8078a	event.bot.name=BookTripTestTwo
+"
+1656508516007,"[DEBUG]	2022-06-29T13:15:16.007Z	2a11acd1-6407-4409-873e-de567db8078a	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookCar
+"
+1656508516009,"END RequestId: 2a11acd1-6407-4409-873e-de567db8078a
+"
+1656508516009,"REPORT RequestId: 2a11acd1-6407-4409-873e-de567db8078a	Duration: 1.93 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508520687,"START RequestId: b5ac5293-844a-43ce-892a-95092d96c623 Version: $LATEST
+"
+1656508520693,"[DEBUG]	2022-06-29T13:15:20.692Z	b5ac5293-844a-43ce-892a-95092d96c623	event.bot.name=BookTripTestTwo
+"
+1656508520693,"[DEBUG]	2022-06-29T13:15:20.693Z	b5ac5293-844a-43ce-892a-95092d96c623	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookCar
+"
+1656508520710,"END RequestId: b5ac5293-844a-43ce-892a-95092d96c623
+"
+1656508520710,"REPORT RequestId: b5ac5293-844a-43ce-892a-95092d96c623	Duration: 18.21 ms	Billed Duration: 19 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508524744,"START RequestId: 25811597-b5af-4219-a59d-7321407381c1 Version: $LATEST
+"
+1656508524746,"[DEBUG]	2022-06-29T13:15:24.745Z	25811597-b5af-4219-a59d-7321407381c1	event.bot.name=BookTripTestTwo
+"
+1656508524746,"[DEBUG]	2022-06-29T13:15:24.746Z	25811597-b5af-4219-a59d-7321407381c1	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookCar
+"
+1656508524747,"END RequestId: 25811597-b5af-4219-a59d-7321407381c1
+"
+1656508524747,"REPORT RequestId: 25811597-b5af-4219-a59d-7321407381c1	Duration: 2.52 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508526544,"START RequestId: f6bd316e-3603-455b-b22a-adb5280e2bae Version: $LATEST
+"
+1656508526547,"[DEBUG]	2022-06-29T13:15:26.547Z	f6bd316e-3603-455b-b22a-adb5280e2bae	event.bot.name=BookTripTestTwo
+"
+1656508526547,"[DEBUG]	2022-06-29T13:15:26.547Z	f6bd316e-3603-455b-b22a-adb5280e2bae	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookCar
+"
+1656508526549,"END RequestId: f6bd316e-3603-455b-b22a-adb5280e2bae
+"
+1656508526549,"REPORT RequestId: f6bd316e-3603-455b-b22a-adb5280e2bae	Duration: 2.52 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508531352,"START RequestId: c29c7fcd-520a-4e8d-aaef-edb6404409d8 Version: $LATEST
+"
+1656508531354,"[DEBUG]	2022-06-29T13:15:31.354Z	c29c7fcd-520a-4e8d-aaef-edb6404409d8	event.bot.name=BookTripTestTwo
+"
+1656508531354,"[DEBUG]	2022-06-29T13:15:31.354Z	c29c7fcd-520a-4e8d-aaef-edb6404409d8	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookCar
+"
+1656508531355,"END RequestId: c29c7fcd-520a-4e8d-aaef-edb6404409d8
+"
+1656508531355,"REPORT RequestId: c29c7fcd-520a-4e8d-aaef-edb6404409d8	Duration: 2.65 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1656508537303,"START RequestId: 545cdb18-fee1-4128-9fb9-4e1a3cb7d06f Version: $LATEST
+"
+1656508537317,"[DEBUG]	2022-06-29T13:15:37.306Z	545cdb18-fee1-4128-9fb9-4e1a3cb7d06f	event.bot.name=BookTripTestTwo
+"
+1656508537317,"[DEBUG]	2022-06-29T13:15:37.306Z	545cdb18-fee1-4128-9fb9-4e1a3cb7d06f	dispatch userId=q9hzmk9seg61ovoiuvm12szcaex3vp9t, intentName=BookCar
+"
+1656508537333,"END RequestId: 545cdb18-fee1-4128-9fb9-4e1a3cb7d06f
+"
+1656508537333,"REPORT RequestId: 545cdb18-fee1-4128-9fb9-4e1a3cb7d06f	Duration: 11.89 ms	Billed Duration: 12 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
