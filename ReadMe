@@ -1,11 +1,15 @@
 Assignment 2_David Poyitt_Student ID:103953398_Programming for Development
 
-1. BookTripTestTwo is the exported Lexbot JSON output file.
+1. Python Project 4: is the Django framework. Use this username and password to enter the site...
+username: username
+password: Start#Bot22
 
-2. Working Lexbot in action is a downloadable video file of the Lexbot actually in action.
+2. BookTripTestTwo: is the exported Lexbot JSON output file.
 
-3. lambda_function.py is the downloaded Lambda file.
+3. Working Lexbot in action: is a downloadable video file of the Lexbot actually in action.
 
-4. Logged events and errors is a csv file of all the errors I had to work through and debug.
+4. lambda_function.py: is the downloaded Lambda file.
 
-5. Assignment 2 is my written report
+5. Logged events and errors: is a csv file of all the errors I had to work through and debug on my second attempt.
+
+6. Assignment 2: is my written report.
