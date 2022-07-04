@@ -1,0 +1,19 @@
+<!-- templates/home.html -->
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+{% if user.is_authenticated %}
+  Hi {{ user.username }}!
+<h1>This is where you get to book your next holiday using Booker Bot.</h1>
+<h2>This is where Booker Bot will go.</h2>
+<br>
+ <img src="https://www.paubox.com/blog/wp-content/uploads/2020/12/Blog-Header-ChatBot.png" alt="BookerBot goes here...">
+<br>
+  <p><a href="{% url 'logout' %}">Log Out</a></p>
+{% else %}
+  <p>You are not logged in</p>
+  <a href="{% url 'login' %}">Log In</a>
+{% endif %}
+{% endblock %}
